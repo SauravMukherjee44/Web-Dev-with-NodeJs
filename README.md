@@ -14,6 +14,7 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 anyone with zero experience on programming can learn.
 I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
 www.shapeai.tech
+  
 Connect with me:
 <li><a href=
 "https://www.linkedin.com/in/sauravmukherjee44/">LinkedIn</a>
